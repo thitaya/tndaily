@@ -4,8 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "cron-job-manager": "^1.0.7",
     "next": "^6.0.3",
     "node-cron": "^1.2.1",
+    "node-schedule": "^1.3.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
   }
